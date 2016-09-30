@@ -1,0 +1,28 @@
+/* Haber1 */
+div#haber1 {
+	/* kenar özellikleri */
+	border-width: 1px;
+	border-style: solid;
+
+	/* genişlik */
+	width:300px;
+	/* arka plan */
+	background: orange;
+	}
+
+
+
+div#haber1 h1.baslik {
+	background: blue;
+	color: white
+
+}
+p.icerik  {
+	font-family: Verdana;
+	font-size: 14px;
+}
+
+div#haber1 {
+	text-decoration: none;
+
+}
